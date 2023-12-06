@@ -39,8 +39,14 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .navbar-collapse {
   flex-grow: 0;
+}
+
+@media screen and (min-width: 1000px) {
+  .navbar-nav {
+    gap: 50px;
+  }
 }
 </style>
