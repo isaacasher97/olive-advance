@@ -2,7 +2,7 @@
   <div id="nav-container">
     <nav style="background-color: #183b54" class="navbar navbar-expand-lg">
       <div class="container-fluid">
-        <a class="navbar-brand" href="/">Navbar</a>
+        <a class="navbar-brand" href="/">Olive Advance</a>
         <button
           class="navbar-toggler"
           type="button"
