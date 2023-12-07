@@ -139,7 +139,7 @@ a {
   color: #00a84f;
   display: block;
   height: 50px;
-  font-size: 1.4em;
+  font-size: 1.1em;
   padding: 4px;
   position: relative;
   text-decoration: none;
