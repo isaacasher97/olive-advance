@@ -4,7 +4,8 @@
     lc-helper="background"
     style="
       height: 50vh;
-      background: url(https://i.imgur.com/GAU1KJ7.jpg) center / cover no-repeat;
+      background: url(https://images.unsplash.com/photo-1530466951295-f13b9bceb117?ixlib=rb-1.2.1&amp;q=90&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1980&amp;h=768&amp;fit=crop&amp;ixid=eyJhcHBfaWQiOjM3ODR9)
+        center / cover no-repeat;
     "
   ></div>
   <div class="container p-5 bg-light" style="margin-top: -100px">
