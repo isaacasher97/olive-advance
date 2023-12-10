@@ -58,7 +58,7 @@
         </div>
         <!-- /lc-block -->
       </div>
-      <!-- /col -->
+      <!-- /coll -->
     </div>
   </div>
 </template>
