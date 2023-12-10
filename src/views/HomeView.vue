@@ -3,6 +3,7 @@
     <Hero />
     <InfoSection />
     <HeroTwo />
+    <h2>Apply Today</h2>
     <CardCarousel />
   </div>
 </template>
