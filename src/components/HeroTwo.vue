@@ -4,7 +4,7 @@
     lc-helper="background"
     style="
       height: 50vh;
-      background: url(https://images.unsplash.com/photo-1530466951295-f13b9bceb117?ixlib=rb-1.2.1&amp;q=90&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1980&amp;h=768&amp;fit=crop&amp;ixid=eyJhcHBfaWQiOjM3ODR9)
+      background: url(https://i.imgur.com/GAU1KJ7.jpg&amp;q=90&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1980&amp;h=768&amp;fit=crop&amp;ixid=eyJhcHBfaWQiOjM3ODR9)
         center / cover no-repeat;
     "
   ></div>
